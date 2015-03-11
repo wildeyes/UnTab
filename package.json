@@ -1,0 +1,27 @@
+{
+  "name": "SingleTab",
+  "version": "1.0.0",
+  "description": "Faster, Integrated, Open Source clone of One Tab",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wildeyes/SingleTab"
+  },
+  "keywords": [
+    "one",
+    "tab",
+    "single",
+    "chrome",
+    "extension",
+    "browser"
+  ],
+  "author": "xwildeyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildeyes/SingleTab/issues"
+  },
+  "homepage": "https://github.com/wildeyes/SingleTab"
+}
